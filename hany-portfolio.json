@@ -1,0 +1,7 @@
+{
+  "apiUrl": "https://ethereum-rpc.publicnode.com",
+  "maintenance": false,
+  "featureFlags": {
+    "newUi": true
+  }
+}
